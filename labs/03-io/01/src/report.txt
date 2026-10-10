@@ -1,0 +1,4 @@
+Exam Results
+Total students: 6
+Average score: 68.0
+Passed students: 4
