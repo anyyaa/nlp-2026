@@ -1,7 +1,7 @@
 # 3.3 Журнал
 Разобрать строки timestamp level message, подсчитать уровни и сохранить ошибки за заданный период. Формат времени — YYYY-MM-DD HH:MM:SS; границы периода включены. Сообщить номера неверных строк.
 
-# Perl. ССЫЛКА НА ВИДЕО-РЕШЕНИЕ https://drive.google.com/file/d/1Zhk7lxP1A1dPgZWAmfNzyVnGHh1Qcgcj/view?usp=sharing
+# Perl. Сссылка на решение https://drive.google.com/file/d/1Zhk7lxP1A1dPgZWAmfNzyVnGHh1Qcgcj/view?usp=sharing
 ## Возможности
 
 - Считывание журнала из UTF-8 файла формата `YYYY-MM-DDTHH:MM:SS LEVEL message`.
