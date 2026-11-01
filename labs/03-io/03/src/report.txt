@@ -1,0 +1,13 @@
+=== Log Analysis ===
+Input file: log.txt
+Period: 2026-10-01T00:00:00 to 2026-10-03T23:59:59
+Total valid messages: 8
+Invalid lines: 0
+
+Messages by level:
+DEBUG: 1
+INFO: 2
+WARN: 1
+ERROR: 4
+
+Errors in selected period: 3
