@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <name>Anna</name>
+    <category>Food</category>
+    <description>Bread, milk &amp; tea</description>
+    <amount>250.50</amount>
+  </record>
+  <record>
+    <name>Boris</name>
+    <category>Travel</category>
+    <description>Ticket &lt;return&gt;</description>
+    <amount>80</amount>
+  </record>
+  <record>
+    <name>Vera &quot;V&quot;</name>
+    <category>Books</category>
+    <description>Guide &gt; overview</description>
+    <amount>120</amount>
+  </record>
+  <record>
+    <name>Diana</name>
+    <category>Stationery</category>
+    <description>Notes for &quot;OCaml&quot;</description>
+    <amount>45.75</amount>
+  </record>
+</records>

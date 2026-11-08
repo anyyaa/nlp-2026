@@ -1,0 +1,5 @@
+name,category,description,amount
+Anna,Food,"Bread, milk & tea",250.50
+Boris,Travel,"Ticket <return>",80
+"Vera ""V""",Books,"Guide > overview",120
+Diana,Stationery,"Notes for ""OCaml""",45.75
