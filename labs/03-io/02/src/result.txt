@@ -1,0 +1,19 @@
+=== Matrix Analysis ===
+Rows: 3
+Columns: 4
+
+Input matrix:
+1 2 3 4
+5 6 7 8
+9 10 11 12
+
+Row statistics:
+Row 1: sum = 10, max = 4
+Row 2: sum = 26, max = 8
+Row 3: sum = 42, max = 12
+
+Column statistics:
+Column 1: sum = 15
+Column 2: sum = 18
+Column 3: sum = 21
+Column 4: sum = 24
