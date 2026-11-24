@@ -12,6 +12,40 @@
 | Конвертация данных | 4 |
 
 
+## Навигация по решениям
+
+Все задания выполнены на разных языках программирования. По ссылкам доступны исходный код, README с инструкцией запуска и ссылка на видео с демонстрацией.
+
+| № | Задание | Язык | Решение |
+|---|---|---|---|
+| **1. Многопоточность** | | | |
+| 1.1 | Параллельный подсчёт частот слов | D | [Открыть](https://drive.google.com/file/d/1OBt1RVVMx-RfgA2o9eevHfvNH5szI7vh/view?usp=sharing) |
+| 1.2 | Параллельный поиск простых чисел | Kotlin | [Открыть](https://drive.google.com/file/d/1VKs8XApHw_T5NjAKRLaA5O-p4TEPOy-K/view?usp=sharing) |
+| 1.3 | Параллельное вычисление гистограммы чисел | Ada | [Открыть](https://drive.google.com/file/d/1Z8du1Zz9ZXf2alu7dFH2dbTy6XUqGcfz/view?usp=sharing) |
+| 1.4 | Параллельный поиск ближайшей пары точек | Julia | - |
+| **2. Алгоритмические задачи** | | | |
+| 2.1 | Рекурсивное вычисление арифметического выражения | OCaml | [Открыть](https://drive.google.com/file/d/1HLtgREYP50BiBUcSn1j6TlasnKs-IWWw/view?usp=sharing) |
+| 2.2 | Лабиринт | Prolog | [Открыть](https://drive.google.com/file/d/1B9RiqHo-rA9cmUQ3IbbUIpyQY42Ey4Cz/view?usp=sharing)) |
+| 2.3 | Возрастающая подпоследовательность | Swift | [Открыть](https://drive.google.com/file/d/1q7rL3yoLUzLOeWOWFGTe7SdyhPeUNZej/view?usp=sharing) |
+| 2.4 | Интервалы | Haskell | [Открыть](https://drive.google.com/file/d/1R2TAFXpBAS41Zp4Rh-jDi79bONVYkHFb/view?usp=sharing) |
+| **3. Ввод и вывод в консоль и файл** | | | |
+| 3.1 | Экзамен | Scheme | [Открыть](https://drive.google.com/file/d/1eeYR_IyjBArwAQy-PMRLRSFg3bJ6GoIA/view?usp=sharing) |
+| 3.2 | Матрица | Common Lisp | [Открыть](https://drive.google.com/file/d/1-jpWSg3uFdrobcXFTF99mJCrVLwlmgzX/view?usp=sharing) |
+| 3.3 | Журнал | Perl | [Открыть](https://drive.google.com/file/d/1Zhk7lxP1A1dPgZWAmfNzyVnGHh1Qcgcj/view?usp=sharing) |
+| 3.4 | Формирование отчёта о личных расходах | Ruby | [Открыть](https://drive.google.com/file/d/1NRKaw_rE9OXwzos6Y121Ysyj-MIWJuEc/view?usp=sharing) |
+| **4. Клиент-серверное взаимодействие** | | | |
+| 4.1 | Строковый сервер | Groovy | [Открыть](https://drive.google.com/file/d/1dvAd0DUrSN_WL_TZ46GD9JEWPKigWKqD/view?usp=sharing) |
+| 4.2 | Клиент-серверная игра «Быки и коровы» | Elixir | [Открыть](https://drive.google.com/file/d/1GL97Il477kGqEs9BYblNAwVm2p9XY0SA/view?usp=sharing) |
+| 4.3 | Ручной HTTP-клиент | F# | [Открыть](https://drive.google.com/file/d/1x9_YziRHVh2AoF2eilyOwn-6AjCogFkU/view?usp=sharing) |
+| 4.4 | Чат | Erlang | [Открыть](https://drive.google.com/file/d/1iwWAAjMjYeyT2ZwsrGEbBLAn5mF7FKMN/view?usp=sharing) |
+| **5. Конвертация данных** | | | |
+| 5.1 | Intel HEX → BIN | Zig | [Открыть](https://drive.google.com/file/d/1FlASrbR6jASJtglC4tweE55KyDsUJ4ht/view?usp=sharing) |
+| 5.2 | Текст ↔ код Морзе | Lua | [Открыть](https://drive.google.com/file/d/13BMB4L3V5GWcihXpJyv7jQNtzClHoGWG/view?usp=sharing) |
+| 5.3 | CSV → XML | Clojure | [Открыть](https://drive.google.com/file/d/1SA7iip7dDvhxp4tdrOm7NlyyuaYedeIG/view?usp=sharing) |
+| 5.4 | BMP → PGM | Nim | [Открыть](https://drive.google.com/file/d/1yj4AmXFyhL2w3NebS7C60IXbNUg3PXgU/view?usp=sharing) |
+
+**Итого:** 20 заданий на 20 разных языках программирования.
+
 ## Список задач
 
 ## 1. Многопоточность
