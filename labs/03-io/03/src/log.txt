@@ -1,0 +1,8 @@
+2026-10-01T09:15:00 INFO Service started
+2026-10-01T09:16:00 WARN Slow response
+2026-10-01T09:17:12 ERROR Database unavailable
+2026-10-02T08:00:00 DEBUG Cache check
+2026-10-02T11:30:00 ERROR Request failed
+2026-10-03T14:10:00 INFO Service recovered
+2026-10-03T23:59:59 ERROR Timeout
+2026-10-04T00:00:00 ERROR Outside selected period
