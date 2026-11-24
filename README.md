@@ -25,7 +25,7 @@
 | 1.4 | Параллельный поиск ближайшей пары точек | Julia | - |
 | **2. Алгоритмические задачи** | | | |
 | 2.1 | Рекурсивное вычисление арифметического выражения | OCaml | [Открыть](https://drive.google.com/file/d/1HLtgREYP50BiBUcSn1j6TlasnKs-IWWw/view?usp=sharing) |
-| 2.2 | Лабиринт | Prolog | [Открыть](https://drive.google.com/file/d/1B9RiqHo-rA9cmUQ3IbbUIpyQY42Ey4Cz/view?usp=sharing)) |
+| 2.2 | Лабиринт | Prolog | [Открыть](https://drive.google.com/file/d/1B9RiqHo-rA9cmUQ3IbbUIpyQY42Ey4Cz/view?usp=sharing) |
 | 2.3 | Возрастающая подпоследовательность | Swift | [Открыть](https://drive.google.com/file/d/1q7rL3yoLUzLOeWOWFGTe7SdyhPeUNZej/view?usp=sharing) |
 | 2.4 | Интервалы | Haskell | [Открыть](https://drive.google.com/file/d/1R2TAFXpBAS41Zp4Rh-jDi79bONVYkHFb/view?usp=sharing) |
 | **3. Ввод и вывод в консоль и файл** | | | |
