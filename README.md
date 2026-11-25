@@ -22,7 +22,7 @@
 | 1.1 | Параллельный подсчёт частот слов | D | [Открыть](https://drive.google.com/file/d/1OBt1RVVMx-RfgA2o9eevHfvNH5szI7vh/view?usp=sharing) |
 | 1.2 | Параллельный поиск простых чисел | Kotlin | [Открыть](https://drive.google.com/file/d/1VKs8XApHw_T5NjAKRLaA5O-p4TEPOy-K/view?usp=sharing) |
 | 1.3 | Параллельное вычисление гистограммы чисел | Ada | [Открыть](https://drive.google.com/file/d/1Z8du1Zz9ZXf2alu7dFH2dbTy6XUqGcfz/view?usp=sharing) |
-| 1.4 | Параллельный поиск ближайшей пары точек | Julia | - |
+| 1.4 | Параллельный поиск ближайшей пары точек | Julia | [Открыть](https://drive.google.com/file/d/13fxoFYjKhnaiTqKM1HAbhARaJvu6L0oD/view?usp=sharing) |
 | **2. Алгоритмические задачи** | | | |
 | 2.1 | Рекурсивное вычисление арифметического выражения | OCaml | [Открыть](https://drive.google.com/file/d/1HLtgREYP50BiBUcSn1j6TlasnKs-IWWw/view?usp=sharing) |
 | 2.2 | Лабиринт | Prolog | [Открыть](https://drive.google.com/file/d/1B9RiqHo-rA9cmUQ3IbbUIpyQY42Ey4Cz/view?usp=sharing) |
